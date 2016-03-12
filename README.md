@@ -4,7 +4,6 @@ A jupyter notebook for a **multiclass audio segmentation** tutorial and demo.
 
 You can read a static version of this notebook [here](http://nbviewer.jupyter.org/github/amsehili/audio-segmentation-by-classification-tutorial/blob/master/multiclass_audio_segmentation.ipynb).
 
-
 # Installation
 
 ## Installation with Anaconda and conda
@@ -51,8 +50,6 @@ To install them all type:
 If you have some of the previous packages already installed, you can install missing one by typing:
 
     pip install package_name
-
-
 
 Optionally, you can install [pyaudio](http://people.csail.mit.edu/hubert/pyaudio/) to play audio segments within the notebook. On Ubuntu type the following command to install the library:
 
