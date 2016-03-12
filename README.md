@@ -2,7 +2,14 @@
 
 A jupyter notebook for a **multiclass audio segmentation** tutorial and demo.
 
-You can read a static version of this notebook [here](http://nbviewer.jupyter.org/github/amsehili/audio-segmentation-by-classification-tutorial/blob/master/multiclass_audio_segmentation.ipynb).
+## What is it all about?
+
+Whe have an audio stream and we want to automatically figure out, given some training data, which kinds of sound envents it contains and when each of these events occurs (see next figure).
+
+![](figures/figure_1.png)
+
+You can read a **static version** of this notebook
+[here](http://nbviewer.jupyter.org/github/amsehili/audio-segmentation-by-classification-tutorial/blob/master/multiclass_audio_segmentation.ipynb).
 
 # Installation
 
