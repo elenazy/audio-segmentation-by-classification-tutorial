@@ -59,7 +59,7 @@ dependencies:
 - zlib=1.2.8=0
 - pip:
   - audioread==2.1.2
-  - auditok==0.1.4
+  - auditok==0.1.5
   - ipython-genutils==0.1.0
   - joblib==0.9.4
   - jupyter-client==4.2.1
