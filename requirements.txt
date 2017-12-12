@@ -4,9 +4,9 @@ jupyter-client==4.2.1
 jupyter-console==4.1.1
 jupyter-core==4.0.6
 notebook==4.1.0
-numpy==1.10.4
+numpy==1.13.3
 scipy==0.17.0
-matplotlib==1.5.0
-scikit-learn==0.17.1
+matplotlib==2.1.0
+scikit-learn==0.19.1
 auditok==0.1.5
-librosa==0.4.2
+librosa==0.5.1
