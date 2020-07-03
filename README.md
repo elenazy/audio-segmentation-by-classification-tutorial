@@ -21,8 +21,8 @@ You can read a **static version** of this notebook
 
         git clone https://github.com/amsehili/audio-segmentation-by-classification-tutorial.git
         cd audio-segmentation-by-classification-tutorial
-        conda env create -f linux-64-environment.yml
-        source activate audio
+        conda env create -f linux-64-environment.yml  #重现环境
+        source activate audio #激活环境 ，可能是环境的嵌套
         jupyter notebook
 
 ## Manual installation (using pip and virtualenv)
